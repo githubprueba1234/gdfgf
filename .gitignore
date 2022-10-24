@@ -1,6 +1,5 @@
-
-
-ifgyufg
-zvnzklv
-cvbcvxb
-xxvbxcb
+#iclude<stdh.io>
+int main(){
+  printf("hola mundo");
+	return0;
+}
